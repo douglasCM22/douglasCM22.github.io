@@ -13,7 +13,7 @@ export const profileData = {
                         'Designing event-driven microservices using Azure Service Bus & Functions.',
                         'Building comprehensive CI/CD pipelines in Azure DevOps.'
                     ],
-                    tech: ['C#', 'Azure AI', 'Azure Service Bus', 'Azure Functions', 'MSAL/OAuth2', 'Azure DevOps']
+                    tech: ['C#', '.Net core', 'EntityFramework', 'EF Core', 'Dapper', 'Azure AI', 'Azure Service Bus', 'Azure Functions', 'MSAL/OAuth2', 'Azure DevOps']
                 },
                 {
                     id: 'yara',
@@ -28,7 +28,7 @@ export const profileData = {
                         'Managed high-volume ship control data.',
                         'Mentored junior developers on GitHub Copilot usage.'
                     ],
-                    tech: ['C#', '.NET', 'React', 'AWS SQS', 'AWS Lambda', 'Azure Service Bus', 'GitHub Copilot']
+                    tech: ['C#', '.Net core', 'EntityFramework', 'EF Core', 'Dapper', '.NET', 'React', 'AWS SQS', 'AWS Lambda', 'Azure Service Bus', 'GitHub Copilot']
                 },
                 {
                     id: 'numeria',
@@ -42,7 +42,7 @@ export const profileData = {
                         'Enhanced frontend-backend interoperability using Vue.js and TypeScript.',
                         'Established standardized API documentation using Swagger/OpenAPI.'
                     ],
-                    tech: ['Azure', 'Vue.js', 'TypeScript', 'Swagger', 'Legacy Migration']
+                    tech: ['C#', '.Net core', 'EntityFramework', 'EF Core', 'Dapper', 'Azure', 'Vue.js', 'TypeScript', 'Swagger', 'Legacy Migration']
                 },
                 {
                     id: 'ntt',
@@ -56,7 +56,7 @@ export const profileData = {
                         'Optimized PostgreSQL database query performance.',
                         'Implemented automated CI/CD workflows on GitHub.'
                     ],
-                    tech: ['.NET Core', 'Dapper', 'PostgreSQL', 'GitHub Actions', 'CI/CD']
+                    tech: ['C#', '.Net core', 'EntityFramework', 'EF Core', 'Dapper', '.NET Core', 'PostgreSQL', 'GitHub Actions', 'CI/CD']
                 },
                 {
                     id: 'neogrid',
@@ -70,7 +70,7 @@ export const profileData = {
                         'Led a cross-functional squad of 3 developers.',
                         'Developed robust backend services with complex auth logic.'
                     ],
-                    tech: ['Squad Leadership', 'SQL Server', 'Data Optimization', 'Backend Security']
+                    tech: ['C#', '.Net core', 'EntityFramework', 'EF Core', 'Dapper', 'Squad Leadership', 'SQL Server', 'Data Optimization', 'Backend Security']
                 },
                 {
                     id: 'sequor',
@@ -84,7 +84,7 @@ export const profileData = {
                         'Implemented event-driven messaging with RabbitMQ.',
                         'Utilized MongoDB for 3D virtualization data.'
                     ],
-                    tech: ['WebSockets', 'WebRTC', 'TypeScript', 'RabbitMQ', 'MongoDB', 'React', 'Redux', 'Next.js']
+                    tech: ['C#', '.Net core', 'EntityFramework', 'EF Core', 'Dapper', 'WebSockets', 'WebRTC', 'TypeScript', 'RabbitMQ', 'MongoDB', 'React', 'Redux', 'Next.js']
                 }
             ],
             skills: {
@@ -95,7 +95,7 @@ export const profileData = {
                 },
                 cloud: {
                     labels: ['Azure Service Bus', 'Azure Functions', 'AWS SQS/Lambda', 'Docker/K8s', 'CI/CD Pipelines', 'Azure AI'],
-                    data: [90, 90, 80, 75, 85, 70],
+                    data: [90, 90, 80, 75, 85, .
                     color: 'rgba(14, 165, 233, 0.7)' // Sky Blue
                 },
                 architecture: {
