@@ -95,7 +95,7 @@ export const profileData = {
                 },
                 cloud: {
                     labels: ['Azure Service Bus', 'Azure Functions', 'AWS SQS/Lambda', 'Docker/K8s', 'CI/CD Pipelines', 'Azure AI'],
-                    data: [90, 90, 80, 75, 85, .
+                    data: [90, 90, 80, 75, 85, 70],
                     color: 'rgba(14, 165, 233, 0.7)' // Sky Blue
                 },
                 architecture: {
